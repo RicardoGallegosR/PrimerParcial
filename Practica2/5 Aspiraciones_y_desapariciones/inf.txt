@@ -1,0 +1,1 @@
+agregar una carpeta en res llamada anim y se crea el archivo traslaciones_derecha.xml
